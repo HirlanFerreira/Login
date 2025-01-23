@@ -3,5 +3,5 @@
 [x] - Criar o arquivo html e css
 [x] - Importar o arquivo css no html
 [x] - Iniciar o git e subir as mudancas atuais
-[ ] - Construcao do html
-[ ] - Estilizacao
+[x] - Construcao do html
+[x] - Estilizacao
